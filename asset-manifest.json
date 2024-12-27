@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "./static/css/main.497b6b88.css",
+    "main.js": "./static/js/main.d57dc772.js",
+    "static/js/488.9c92ff38.chunk.js": "./static/js/488.9c92ff38.chunk.js",
+    "static/media/Ronde-B_square.otf": "./static/media/Ronde-B_square.9c2c0064915ebdea355d.otf",
+    "static/media/logo.png": "./static/media/logo.4dccf54f035e4d26a750.png",
+    "static/media/dustbox1.svg": "./static/media/dustbox1.5dbf481f0370d8f74219.svg",
+    "static/media/dustbox2.svg": "./static/media/dustbox2.1dadec01bdb05fcd2bb9.svg",
+    "index.html": "./index.html",
+    "main.497b6b88.css.map": "./static/css/main.497b6b88.css.map",
+    "main.d57dc772.js.map": "./static/js/main.d57dc772.js.map",
+    "488.9c92ff38.chunk.js.map": "./static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497b6b88.css",
+    "static/js/main.d57dc772.js"
+  ]
+}
